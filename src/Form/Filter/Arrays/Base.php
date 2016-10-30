@@ -34,8 +34,7 @@ class Base extends Filter
     }
 
     /**
-     * @param array $value
-     * @return array
+     * @inheritdoc
      */
     public function filter($value)
     {
