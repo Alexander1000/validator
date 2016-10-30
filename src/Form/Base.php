@@ -137,6 +137,8 @@ abstract class Base implements IBase
     }
 
     /**
+     * Требуется ли параметр
+     *
      * @param string|int $param
      * @return bool
      */
