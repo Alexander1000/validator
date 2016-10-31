@@ -2,12 +2,13 @@
 
 namespace Tests\Form\Examples;
 
+use Form\Form;
 use Form\Filter\Scalar;
 use Form\Validator\IsType;
 use Form\Validator\Integer\Between as IntBetween;
 use Form\Validator\String\Length\Between as StrBetween;
 
-class CategoryParams3 extends \Form\Form
+class CategoryParams3 extends Form
 {
     const ERROR_CODE = 'category.params.3';
 
