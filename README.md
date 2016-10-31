@@ -1,3 +1,3 @@
-# Библиотека валидации данных
+ Библиотека валидации данных //In Russian 
 -------------------------------
-Data Validation Library
+Data Validation Library //English Translation
