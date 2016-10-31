@@ -2,7 +2,6 @@
 
 namespace Tests\Form\Examples;
 
-use \Form\Form;
 use \Form\Validator\Integer\MoreThan as IntMoreThan;
 use \Form\Filter\Scalar as FilterScalar;
 use \Form\Validator\IsType;
