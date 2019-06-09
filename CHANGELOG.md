@@ -1,4 +1,4 @@
-## 0.0.4 (not released)
+## 0.0.4
 - Расширение фикстуры (Expansion of the fixture)
 - Добавлен в тесты хотябы 1 валидный (Added to the tests at least one valid test)
 
